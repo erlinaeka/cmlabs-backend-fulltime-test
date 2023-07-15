@@ -8,7 +8,7 @@ function palindrome(sentence) {
     return newSentence == reverseNewString ? true : false;
 }
 
-// console.log(palindrome("My gym"));
+console.log(palindrome("My gym"));
 // console.log(palindrome("SAIPPUAKIVIKAUPPIAS"));
 // console.log(palindrome("Aibohphobia"));
 // console.log(palindrome("Anna"));

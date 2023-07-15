@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "fizzbuzz": "nodemon run FizzBuzz.js",
-        "palindrome": "nodemon run palindrome.js"
+        "fizzbuzz": "nodemon run FizzBuzz-test.js",
+        "palindrome": "nodemon run palindrome-test.js"
     },
     "repository": {
         "type": "git",
