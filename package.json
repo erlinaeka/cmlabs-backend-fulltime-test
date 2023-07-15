@@ -1,0 +1,24 @@
+{
+    "name": "cmlabs-backend-fulltime-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "fizzbuzz": "nodemon run FizzBuzz.js",
+        "palindrome": "nodemon run palindrome.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/erlinaeka/cmlabs-backend-fulltime-test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/erlinaeka/cmlabs-backend-fulltime-test/issues"
+    },
+    "homepage": "https://github.com/erlinaeka/cmlabs-backend-fulltime-test#readme",
+    "dependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
